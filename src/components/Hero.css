@@ -146,6 +146,10 @@ button:hover {
         padding: .2rem;
         max-width: 100%;
     }
+    
+    .col-items {
+        margin-top: -300px;
+    }
 
     .hero h1 {
         font-size: 2.5rem;
