@@ -8,11 +8,13 @@ const Hero = () => {
       <div className='container'>
         <div className='content'>
           <div className='col-1'>
-            <h1>Data to enrich your<br />
-            <span className='primary-color'>online business</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+            <div className='col-items'>
+              <h1>Data to enrich your<br />
+              <span className='primary-color'>online business</span></h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
                eu fugiat nulla pariatur.</p> 
+              </div>
           </div>
           <div className='col-2'>
             <div className='form-layout'>
